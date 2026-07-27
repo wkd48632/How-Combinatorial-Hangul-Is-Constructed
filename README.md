@@ -5,7 +5,7 @@ How Combinatorial Hangul Is Constructed
 Hangul is Korean character.  
 
 ## What is Combinatorial Hangul?
-Combining sub-glyphs to render Hangul looks better.
+Sub-glyph combining method to render Hangul looks better.
   
 ## Construction of Hangul  
 
