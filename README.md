@@ -6,6 +6,9 @@ Hangul is Korean character.
 
 ## What is Combinatorial Hangul?
 Sub-glyph combining method to render Hangul looks better.
+> Note: Hangul is combinatorial character system.  
+> Note: Hangul has 11,172 glyphs.  
+> Note: If using this method, only needs 360 sub-glyphs (3.22%.)  
   
 ## Construction of Hangul  
 
