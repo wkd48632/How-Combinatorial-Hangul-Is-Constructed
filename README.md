@@ -60,7 +60,7 @@ for i in range(ord('가'),ord('개'),ord('각')-ord('가')):
 
 ## Flags used for rendering
 
-- giyeok [ghi-yuck]: Is cho 'ㄱ' or 'ㄲ'.
+- giyeok [ghi-yuck]: Is cho 'ㄱ' or 'ㅋ'.
 - batchim [bhat-chim]: Has jong.
 
 ## Sets of components
