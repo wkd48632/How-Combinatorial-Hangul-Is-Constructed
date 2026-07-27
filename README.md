@@ -9,7 +9,7 @@ Combining sub-glyphs to render Hangul looks better.
   
 ## Construction of Hangul  
 
-Hangul has three components  
+Hangul has three components.  
 
 - cho ( choseong [cho-sung] ): Initial consonant.
 - jung ( jungseong [joong-sung] ): Medial vowel.
