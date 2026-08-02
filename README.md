@@ -38,7 +38,7 @@ O : jong ( final consonant )
 
 ## List of Components
 
-- List of cho: ㄱㄲㄴㄷㄸㄻㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ  
+- List of cho: ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ  
 - List of jung: ㅏㅐㅑㅒㅓㅔㅕㅖㅗㅘㅙㅚㅛㅜㅝㅞㅟㅠㅡㅢㅣ  
 - List of jong: (none)ㄱㄲㄳㄴㄵㄶㄷㄹㄺㄻㄼㄽㄾㄿㅀㅁㅂㅄㅅㅆㅇㅈㅊㅋㅌㅍㅎ  
 ```
